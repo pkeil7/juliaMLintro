@@ -8,6 +8,6 @@ This is a WIP introduction to machine learning in julia. For a comprehensive int
 ```julia
 using Pkg
 Pkg.add("IJulia")
-using IJulia
 ```
+- in the notebook, select the `julia` kernel
 
